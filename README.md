@@ -1,0 +1,1 @@
+I created this project during my summer internship 2021. This is a basic face tracker using OpenCV
